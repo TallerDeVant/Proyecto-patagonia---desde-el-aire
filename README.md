@@ -1,6 +1,5 @@
-# 🚁 Proyecto Patagonia - Desde el aire
-### Por TallerDeVant | Robótica • Drones • Soluciones
-
+#  Proyecto Patagonia - Desde el aire
+### Por TallerDeVant | Robótica • Drones • Soluciones inteligentes • bomberos • asistencia • todo por mi país
 
 
 Este repositorio contiene toda la documentación técnica, modelos 3D y guías de ensamblaje para la construcción de drones de exploración diseñados en **TallerDeVant**. El objetivo es crear una plataforma de vuelo robusta, capaz de capturar imágenes en entornos desafiantes como la Patagonia Argentina y evitar todos los incendios posibles
