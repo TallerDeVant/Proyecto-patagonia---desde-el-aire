@@ -28,8 +28,20 @@ Este repositorio contiene toda la documentación técnica, modelos 3D y guías d
 ## 🇦🇷 Sobre TallerDeVant
 Soy un **Handyman Tecnológico** enfocado en resolver problemas mediante la robótica y la ingeniería. Este proyecto nace de la necesidad de llevar la tecnología de vanguardia (*Avant*) al servicio de la exploración.
 
-* **Twitch:** [TallerDeVant](https://twitch.tv/tallerdevant)
+
 * **Instagram:** [@TallerDeVant](https://instagram.com/tallerdevant)
+* **Twitch:** [TallerDeVant](https://twitch.tv/tallerdevant)
+* **KICK:** [@TallerDeVant](https://instagram.com/tallerdevant)
+* **TIKTOK:** [TallerDeVant](https://twitch.tv/tallerdevant)
+* **Discord:** [@TallerDeVant](https://instagram.com/tallerdevant)
+* **web:** [@TallerDeVant](https://instagram.com/tallerdevant)
+* **github:** [@TallerDeVant](https://instagram.com/tallerdevant)
+* **Linkedin** [@TallerDeVant](https://instagram.com/tallerdevant)
+* **X** [@TallerDeVant](https://instagram.com/tallerdevant)
+
+aca
+
+
 
 ---
 > *"Salvando la patagonia,contando las monedas y atando con alambre*
