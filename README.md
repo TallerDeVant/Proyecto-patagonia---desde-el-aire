@@ -43,4 +43,4 @@ Soy un **Handyman Tecnológico** enfocado en resolver problemas mediante la rob�
 
 
 ---
-> *"Salvando la patagonia,contando las monedas y atando con alambre*
+> *"Ayudando al país con pocos pesos pero mucho ingenio*
